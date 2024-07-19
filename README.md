@@ -10,10 +10,6 @@ how to install this tools :
 requirements:
 
 * sudo apt-get install tor
-    *sudo apt-get install tor
-    *sudo pip3 install requests
-    *sudo pip3 install stem
-
 * sudo pip3 install requests
 * sudo pip3 install stem
 
