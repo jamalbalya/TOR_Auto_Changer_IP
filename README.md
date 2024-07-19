@@ -21,7 +21,7 @@ requirements:
 
 3: python3 install.py
 
-4: internal type ( aut ) anywhere you want
+4: internal type ( aut ) anywhere you want as long as you already root
   
 5: type time (on second) to change IP
 
