@@ -19,14 +19,16 @@ requirements:
 
 3: chmod +x install.py
 
-3: python3 install.py
+4: sudo su
 
-4: internal type ( aut ) anywhere you want as long as you already root
+5: python3 install.py
+
+6: internal type ( aut ) anywhere you want as long as you already root
   
-5: type time (on second) to change IP
+7: type time (on second) to change IP
 
-6: type how many times to change your IP (0 to infinite IP change)
+8: type how many times to change your IP (0 to infinite IP change)
 
-7: go to your browser / pc (sample: firefox) go to settings and scroll down you will see network setting and click settings  
+9: go to your browser / pc (sample: firefox) go to settings and scroll down you will see network setting and click settings  
 
-8: change configuration proxy into manual. on SOCKS Host write 127.0.0.1 for port 9050
+10: change configuration proxy into manual. on SOCKS Host write 127.0.0.1 for port 9050
