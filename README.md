@@ -17,6 +17,10 @@ requirements:
 
 3 : python3 install.py
 
+4 : sudo nano /etc/tor/torrc
+    * unremark for: ControlPort and CookieAuthentication
+    * and then save after doing unremark
+
 4 : interminal type ( aut ) any where you want
   
 5 : type time (on second) to change IP
