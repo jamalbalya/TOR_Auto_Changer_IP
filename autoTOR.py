@@ -65,7 +65,7 @@ if __name__ == "__main__":
       / ____ \ |_| | || (_) |    | | (_) | |
      /_/    \_\__,_|\__\___/     |_|\___/|_|
                     V 2.1.1
-    from mrFD modify by KittyHell
+    from mrFD modify by nobody
     ''')
     print("\033[1;40;31m HACK THE WORLD\n")
 
